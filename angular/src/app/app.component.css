@@ -1,0 +1,9 @@
+.darken{
+    color: #fff;
+    background-color: rgba(255, 255, 255, .1);
+    border-color: rgba(255, 255, 255, .1);
+
+}
+.myfont{
+font-size: 15px;
+}

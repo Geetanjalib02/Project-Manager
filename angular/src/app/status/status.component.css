@@ -1,0 +1,17 @@
+.container{
+    display: block;
+    height: 230px; 
+    background-color:rgb(229, 226, 226);
+    
+}
+.centr{
+    margin:auto;
+}
+.list-group{
+    padding:8vh 188px;
+}
+.bgc{
+    background-color:white; 
+    border:2px solid rgb(133, 130, 130);
+    padding:7px;
+}

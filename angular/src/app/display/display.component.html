@@ -1,0 +1,26 @@
+<div class="table-responsive">
+    <table class="table table-striped table-sm">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Project</th>
+          <th>Employee</th>
+          <th>Date</th>
+          <th>Logged Time</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let employeeLog of empLogs | paginate : { id: 'listing_pagination', itemsPerPage: 5, currentPage: page} ;let i = index">
+          <td>{{i+1}}</td>
+          <td>{{employeeLog.projectName}}</td>
+          <td>{{employeeLog.employeeName}}</td>
+          <td>{{employeeLog.DateLog}}</td>
+          <td>{{employeeLog.TimeLog+" hr"}}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+<!-- pagination --> 
+<div>
+  <pagination-controls id="listing_pagination" mazSize="5" directionLiks="true" (pageChange)="page =$event"></pagination-controls>
+</div>

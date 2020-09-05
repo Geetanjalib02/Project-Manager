@@ -1,0 +1,22 @@
+.sidebar .nav-link.active {
+    color: #007bff;
+}
+.sidebar .nav-link {
+    font-weight: 500;
+    color: #333;
+}
+.nav-link {
+    display: block;
+    padding: .5rem 1rem;
+}
+.bgc{
+    background-color: white;
+
+}
+
+.mybtn{
+    padding:0px 10px;
+}
+.drp{
+    width:10rem;
+}
