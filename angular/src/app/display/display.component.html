@@ -11,7 +11,7 @@
       </thead>
       <tbody>
         <tr *ngFor="let employeeLog of empLogs | paginate : { id: 'listing_pagination', itemsPerPage: 5, currentPage: page} ;let i = index">
-          <td>{{i+1}}</td>
+          <td>{{((page-1)*5)+i+1}}</td>
           <td>{{employeeLog.projectName}}</td>
           <td>{{employeeLog.employeeName}}</td>
           <td>{{employeeLog.DateLog}}</td>

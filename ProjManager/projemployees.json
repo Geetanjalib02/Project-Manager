@@ -1,0 +1,181 @@
+[{
+  "_id": {
+    "$oid": "5f52a0b86f55451d8cb78d0e"
+  },
+  "projectId": "5f529ba06f55451d8cb78cff",
+  "EmployeeId": "5f529c606f55451d8cb78d03",
+  "DateLog": "22/1/2020",
+  "TimeLog": "2",
+  "createdAt": {
+    "$date": "2020-09-04T20:16:56.821Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-04T20:16:56.821Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f52a2f86f55451d8cb78d0f"
+  },
+  "projectId": "5f529bbc6f55451d8cb78d01",
+  "EmployeeId": "5f529c696f55451d8cb78d04",
+  "DateLog": "23/01/2020",
+  "TimeLog": "1",
+  "createdAt": {
+    "$date": "2020-09-04T20:26:32.575Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-04T20:26:32.575Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f52a39e6f55451d8cb78d10"
+  },
+  "projectId": "5f529bac6f55451d8cb78d00",
+  "EmployeeId": "5f529c6d6f55451d8cb78d05",
+  "DateLog": "24/02/2020",
+  "TimeLog": "0.5",
+  "createdAt": {
+    "$date": "2020-09-04T20:29:18.649Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-04T20:29:18.649Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f52a3de6f55451d8cb78d11"
+  },
+  "projectId": "5f529cb86f55451d8cb78d0d",
+  "EmployeeId": "5f529c726f55451d8cb78d06",
+  "DateLog": "25/02/2020",
+  "TimeLog": "2",
+  "createdAt": {
+    "$date": "2020-09-04T20:30:22.801Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-04T20:30:22.801Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f52a4366f55451d8cb78d12"
+  },
+  "projectId": "5f529a476f55451d8cb78cfe",
+  "EmployeeId": "5f529c7a6f55451d8cb78d07",
+  "DateLog": "26/02/2020",
+  "TimeLog": "1.5",
+  "createdAt": {
+    "$date": "2020-09-04T20:31:50.978Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-04T20:31:50.978Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f52a46f6f55451d8cb78d13"
+  },
+  "projectId": "5f529be06f55451d8cb78d02",
+  "EmployeeId": "5f529c7f6f55451d8cb78d08",
+  "DateLog": "27/02/2020",
+  "TimeLog": "1",
+  "createdAt": {
+    "$date": "2020-09-04T20:32:47.313Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-04T20:32:47.313Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f52a5456f55451d8cb78d14"
+  },
+  "projectId": "5f529ba06f55451d8cb78cff",
+  "EmployeeId": "5f529c856f55451d8cb78d09",
+  "DateLog": "1/03/2020",
+  "TimeLog": "3",
+  "createdAt": {
+    "$date": "2020-09-04T20:36:21.852Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-04T20:36:21.852Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f52a58c6f55451d8cb78d15"
+  },
+  "projectId": "5f529bbc6f55451d8cb78d01",
+  "EmployeeId": "5f529c8a6f55451d8cb78d0a",
+  "DateLog": "2/03/2020",
+  "TimeLog": "1",
+  "createdAt": {
+    "$date": "2020-09-04T20:37:32.660Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-04T20:37:32.660Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f52a5bc6f55451d8cb78d16"
+  },
+  "projectId": "5f529bac6f55451d8cb78d00",
+  "EmployeeId": "5f529c8f6f55451d8cb78d0b",
+  "DateLog": "3/03/2020",
+  "TimeLog": "2",
+  "createdAt": {
+    "$date": "2020-09-04T20:38:20.826Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-04T20:38:20.826Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f52a6056f55451d8cb78d17"
+  },
+  "projectId": "5f529cb86f55451d8cb78d0d",
+  "EmployeeId": "5f529c936f55451d8cb78d0c",
+  "DateLog": "4/03/2020",
+  "TimeLog": "3",
+  "createdAt": {
+    "$date": "2020-09-04T20:39:33.113Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-04T20:39:33.113Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f534ccf137a972718731b72"
+  },
+  "projectId": "5f529a476f55451d8cb78cfe",
+  "EmployeeId": "5f529c8a6f55451d8cb78d0a",
+  "DateLog": "2020-02-05",
+  "TimeLog": 2,
+  "createdAt": {
+    "$date": "2020-09-05T08:31:11.325Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-05T08:31:11.325Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f534fda137a972718731b73"
+  },
+  "projectId": "5f529ba06f55451d8cb78cff",
+  "EmployeeId": "5f529c8a6f55451d8cb78d0a",
+  "DateLog": "2020-02-02",
+  "TimeLog": 5,
+  "createdAt": {
+    "$date": "2020-09-05T08:44:10.741Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-05T08:44:10.741Z"
+  },
+  "__v": 0
+}]

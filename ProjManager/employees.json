@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "5f529c606f55451d8cb78d03"
+  },
+  "EName": "Employee1",
+  "createdAt": {
+    "$date": "2020-09-04T19:58:24.310Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-04T19:58:24.310Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f529c696f55451d8cb78d04"
+  },
+  "EName": "Employee2",
+  "createdAt": {
+    "$date": "2020-09-04T19:58:33.134Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-04T19:58:33.134Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f529c6d6f55451d8cb78d05"
+  },
+  "EName": "Employee3",
+  "createdAt": {
+    "$date": "2020-09-04T19:58:37.588Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-04T19:58:37.588Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f529c726f55451d8cb78d06"
+  },
+  "EName": "Employee4",
+  "createdAt": {
+    "$date": "2020-09-04T19:58:42.893Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-04T19:58:42.893Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f529c7a6f55451d8cb78d07"
+  },
+  "EName": "Employee5",
+  "createdAt": {
+    "$date": "2020-09-04T19:58:50.409Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-04T19:58:50.409Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f529c7f6f55451d8cb78d08"
+  },
+  "EName": "Employee6",
+  "createdAt": {
+    "$date": "2020-09-04T19:58:55.502Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-04T19:58:55.502Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f529c856f55451d8cb78d09"
+  },
+  "EName": "Employee7",
+  "createdAt": {
+    "$date": "2020-09-04T19:59:01.615Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-04T19:59:01.615Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f529c8a6f55451d8cb78d0a"
+  },
+  "EName": "Employee8",
+  "createdAt": {
+    "$date": "2020-09-04T19:59:06.568Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-04T19:59:06.568Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f529c8f6f55451d8cb78d0b"
+  },
+  "EName": "Employee9",
+  "createdAt": {
+    "$date": "2020-09-04T19:59:11.045Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-04T19:59:11.045Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f529c936f55451d8cb78d0c"
+  },
+  "EName": "Employee10",
+  "createdAt": {
+    "$date": "2020-09-04T19:59:15.984Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-04T19:59:15.984Z"
+  },
+  "__v": 0
+}]
